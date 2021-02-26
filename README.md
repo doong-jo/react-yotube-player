@@ -1,1 +1,1 @@
-# react-yotube-player
+# react-youtube-player
